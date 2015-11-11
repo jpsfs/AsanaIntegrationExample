@@ -6,3 +6,4 @@ This repository is design to showcase Asana and GitHub integration features.
 
 * Add missing reference to Asana Task.
 * Close task on Asana.
+* Done during ESOF Class
